@@ -62,7 +62,7 @@ def message_box():
         fg='white',
         bg='#A065CD',
         highlightthickness=0,
-        command=des,#nd
+        command=des,
         relief="flat",
         width=6).place(x=180, y=170)
 
